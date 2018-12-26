@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoPlayDemo</string>
+    <string name="str_err_nosd">错诶</string>
+    <string name="str_complete">完成</string>
+    <string name="str_button1">按钮1</string>
+    <string name="str_button2">按钮2</string>
+    <string name="hello">你好</string>
+</resources>
